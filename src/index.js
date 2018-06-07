@@ -18,7 +18,8 @@ export {
 	auth0RenewTokenEpic,
 	auth0AuthenticatedEpic,
 	AUTH0_ERROR,
-	sessionApi
+	sessionApi,
+	authorize
 };
 
 
