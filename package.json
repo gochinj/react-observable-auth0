@@ -1,0 +1,26 @@
+{
+  "name": "react-observable-auth0",
+  "version": "1.0.0",
+  "description": "An implementation of Auth0 leveraging React, Redux, RxJS (react-observable).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Auth0",
+    "React",
+    "Redux",
+    "RxJs",
+    "react-observable"
+  ],
+  "author": "jeff@gochin.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gochinj/react-observable-auth0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gochinj/react-observable-auth0/issues"
+  },
+  "homepage": "https://github.com/gochinj/react-observable-auth0#readme"
+}
