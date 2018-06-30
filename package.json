@@ -1,6 +1,6 @@
 {
   "name": "react-observable-auth0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An implementation of Auth0 leveraging React, Redux, RxJS (react-observable).",
   "main": "index.js",
   "scripts": {
