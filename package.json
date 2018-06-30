@@ -2,7 +2,7 @@
   "name": "react-observable-auth0",
   "version": "1.0.2",
   "description": "An implementation of Auth0 leveraging React, Redux, RxJS (react-observable).",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
